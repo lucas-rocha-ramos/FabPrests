@@ -1,0 +1,5 @@
+{
+  "name": "AI Preset & LUT Converter",
+  "description": "An application to analyze image editing parameters using AI (simulated via Gemini text prompts) and convert them to various preset/LUT formats like XMP for Lightroom or .cube for video editors.",
+  "requestFramePermissions": []
+}
